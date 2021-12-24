@@ -45,6 +45,10 @@ ktlint {
 
 Also see plugin page in [Gradle Plugin Portal](https://plugins.gradle.org/plugin/com.doist.gradle.ktlint).
 
+## Release
+
+To release a new version, ensure `CHANGELOG.md` is up-to-date, and push the corresponding tag (e.g., `v1.2.3`). GitHub Actions handles the rest.
+
 ## Licence
 
 Released under the [MIT License](https://opensource.org/licenses/MIT).

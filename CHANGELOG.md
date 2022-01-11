@@ -4,5 +4,6 @@ This file documents all notable changes, following the [Keep a Changelog](https:
 
 ## Unreleased
 
+## 1.0.0 - 2022-01-11
 ### Added
 - Public release

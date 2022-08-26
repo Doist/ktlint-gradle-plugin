@@ -1,3 +1,5 @@
+> **Warning** — Not actively maintained.
+
 # Ktlint Gradle Plugin
 
 This plugin is mainly designed to run [Ktlint](https://github.com/pinterest/ktlint) for changed `kt` files.
